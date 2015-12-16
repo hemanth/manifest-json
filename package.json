@@ -1,6 +1,6 @@
 {
   "name": "manifest-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a Webapp manifest for your PWA.",
   "license": "MIT",
   "repository": "hemanth/manifest-json",
