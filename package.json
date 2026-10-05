@@ -1,6 +1,6 @@
 {
   "name": "manifest-json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Creates a Webapp manifest for your PWA.",
   "license": "MIT",
   "repository": "hemanth/manifest-json",
@@ -27,6 +27,9 @@
     "pwa"
   ],
   "dependencies": {
-    "inquirer": "^0.11.0"
+    "inquirer": "^14.2.3"
+  },
+  "scripts": {
+    "test": "node --check cli.js"
   }
 }
